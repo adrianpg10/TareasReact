@@ -1,6 +1,6 @@
 ## Descripción
 
-Aplicación inserción de tareas.
+Aplicación inserción de tareas realizado en React.
 
 ## Autor ✒️
 **Adrián Pérez Gómez** - *Redes*
