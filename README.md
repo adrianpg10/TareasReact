@@ -1,6 +1,6 @@
 ## Descripción
 
-Buscador de items realizado en Javascript.
+Aplicación inserción de tareas.
 
 ## Autor ✒️
 **Adrián Pérez Gómez** - *Redes*
